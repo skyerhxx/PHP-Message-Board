@@ -7,9 +7,10 @@ ThinkPHP 5.0.11 + PhpStudy Pro 8.1.0.1 + amazeUI前端模板
 能实现正常的留言功能，显示姓名、时间、邮箱。
 
 已在本地正常运行。
-
-
-
+</br>
+将mess文件夹放在phpstudy的www目录下即可
+</br>
+</br>
 做项目过程：
 
 https://blog.csdn.net/hxxjxw/article/details/105184754
